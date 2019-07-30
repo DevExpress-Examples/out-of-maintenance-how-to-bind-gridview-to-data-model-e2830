@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to bind GridView to data Model
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2830)**
+**[[Run Online]](https://codecentral.devexpress.com/e2830/)**
 <!-- run online end -->
 
 
