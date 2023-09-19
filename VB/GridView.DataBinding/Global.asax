@@ -1,1 +1,0 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="GridView.DataBinding.MvcApplication" Language="vb" %>
